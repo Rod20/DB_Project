@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DB_Project</string>
+    <string name="ingrese_la_palabra_a_traducir">Ingrese la palabra a traducir</string>
+    <string name="aymara">Aymara</string>
+    <string name="translate">Translate</string>
+    <string name="bienvenidos">BIENVENIDOS</string>
+</resources>
